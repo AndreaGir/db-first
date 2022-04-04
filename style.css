@@ -1,0 +1,8 @@
+.immagine{
+    width: 80%;
+    height: 80vh;
+    margin: 0 auto;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-image: url('immagine.png');
+}
